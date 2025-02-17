@@ -4,9 +4,9 @@
 Managing connection strings in an enterprise environment can quickly become chaotic. This guide provides a structured approach to standardizing connection string naming conventions, ensuring consistency, security, and ease of management.
 
 ## Why Standardize?
-- 🔹 **Clarity:** Easily identify databases, environments, and services.
-- 🔹 **Security:** Avoid hardcoded credentials and enforce best practices.
-- 🔹 **Scalability:** Supports multi-environment deployment (Dev, QA, Prod).
+-  **Clarity:** Easily identify databases, environments, and services.
+-  **Security:** Avoid hardcoded credentials and enforce best practices.
+-  **Scalability:** Supports multi-environment deployment (Dev, QA, Prod).
 
 ## Naming Format
 We recommend using the following format:
