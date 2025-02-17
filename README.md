@@ -11,7 +11,7 @@ Managing connection strings in an enterprise environment can quickly become chao
 ## Naming Format
 We recommend using the following format:
 
-'{company}-{env}-{service}-{region}-{type}'
+`{company}-{env}-{service}-{region}-{type}`
 
 Example:
 acme-prod-payments-us-east-db
